@@ -8,7 +8,7 @@ on:
   push:
     branches : ["feature/*"]
     branches-ignore:
-          ["Branch1"] 
+          ["feature/mno"]
           
           
 
